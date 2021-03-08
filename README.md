@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on budiling open source community. Where to spread knowldge to people 
 - 🌱 I’m currently learning public speaking and AI cognitive computing. 
 - 👯 I’m looking to collaborate on AI, Datascience enthusiast.  
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about AI, Datascience and Python ... Happy to help you.
 - 📫 How to reach me: iampythoner@gmail.com
 - 😄 Pronouns: me
