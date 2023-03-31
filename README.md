@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently trying on budiling open source community. Where to spread knowldge to people 
-- :sunglasses: I'm currently working as Data & AI solutions architect for Europe's no.1 tech brand 'T' (11th worldwide) 
+- :sunglasses: I'm currently working as Data & AI solutions architect for Europe's no.1 brand 'T' (11th worldwide) 
 - 🌱 I’m currently learning public speaking and AI cognitive computing. 
 - 👯 I’m looking to collaborate on AI, Datascience enthusiast.  
 - 💬 Ask me about AI, Datascience, Cloud and Python ... Happy to help you.
